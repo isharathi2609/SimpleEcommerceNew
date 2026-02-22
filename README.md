@@ -30,4 +30,6 @@ Import the project into Eclipse or IntelliJ IDEA as a Dynamic Web Project.
 
 Configure your Apache Tomcat server.
 
-Run login.jsp or index.jsp on the server.
+Run login.jsp or index.jsp on the server. 
+
+This project is a Server-side Java Application. To deploy it online, use a service that supports Java environments (like Render, Railway, or Heroku) with an Apache Tomcat configuration. It will not run directly on static hosts like Vercel or GitHub Pages.
